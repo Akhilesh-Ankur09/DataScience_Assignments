@@ -1,0 +1,5 @@
+Rahul, Data Science, 82
+Sneha, Python, 74
+Aman, AI, 90
+Neha, ML, 78
+Karan, Data Science, 68
