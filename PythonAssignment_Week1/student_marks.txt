@@ -1,0 +1,6 @@
+roll_number,name,exam_mark,coursework_mark
+DS101,Rahul Sharma,78,82
+DS102,Sneha Verma,65,70
+DS103,Aman Gupta,90,88
+DS104,Neha Singh,55,60
+DS105,Karan Mehta,85,80
