@@ -1,2 +1,5 @@
 venv/
 __pycache__/
+# Ignore generated data and outputs
+Week4_RealWorld_Dataset_Analysis/data/processed/
+Week4_RealWorld_Dataset_Analysis/outputs/
