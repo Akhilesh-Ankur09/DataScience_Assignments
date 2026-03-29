@@ -62,6 +62,19 @@ A separate paragraph containing more than 200 words related to Artificial Intell
   ```python
   model.wv.most_similar('ai')
   
+## Additional NLP Tasks
+
+### Cosine Similarity
+- Computed similarity between three sentences using TF-IDF vectors.
+
+### Text Classification (Supervised Learning)
+- Implemented using Multinomial Naive Bayes.
+- Classified text into positive and negative categories.
+
+### Text Clustering (Unsupervised Learning)
+- Implemented using K-Means clustering.
+- Grouped similar documents into clusters based on content similarity.
+  
 ### Tools & Libraries Used
 Python
 NLTK
